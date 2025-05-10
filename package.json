@@ -11,14 +11,17 @@
   "dependencies": {
     "@stripe/crypto": "^0.0.2",
     "@stripe/stripe-js": "^1.48.0",
-    "@types/node": "18.14.6",
-    "@types/react": "18.0.28",
-    "@types/react-dom": "18.0.11",
-    "eslint": "8.35.0",
-    "eslint-config-next": "13.2.3",
-    "next": "13.2.3",
+    "next": "13.4.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "typescript": "4.9.5"
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.6",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "eslint": "^8.35.0",
+    "eslint-config-next": "^13.2.3",
+    "typescript": "^4.9.5",
+    "prettier": "^2.8.7"
   }
 }
